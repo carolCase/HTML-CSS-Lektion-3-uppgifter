@@ -1,0 +1,22 @@
+      /*option + shift + 8 {} */
+      /* . = klass */
+      /* # = ID */
+      .Banana 
+      {
+        color: yellow;
+      }
+      #apple 
+      {
+        color: brown;
+      }
+      
+      p
+       { color: blue;}
+
+       ul.b {
+        list-style-type: square;
+      }
+
+ol.c {
+    list-style-type: upper-roman;
+  }
